@@ -1,0 +1,30 @@
+{
+	"bus": {
+		"number": "1001",
+		"name": "abc",
+		"type": "super delux",
+		"seat": [
+			{
+				"date": "15.11.2020",
+				"departure": "chennai",
+				"destination": "madurai",
+				"availability": "20",
+				"_category": "AC"
+			},
+			{
+				"date": "15.11.2020",
+				"departure": "chennai",
+				"destination": "madurai",
+				"availability": "15",
+				"_category": "NON-AC"
+			},
+			{
+				"date": "15.11.2020",
+				"departure": "chennai",
+				"destination": "madurai",
+				"availability": "10",
+				"_category": "General"
+			}
+		]
+	}
+}

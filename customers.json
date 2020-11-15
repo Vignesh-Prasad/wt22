@@ -1,0 +1,50 @@
+[
+   {
+      "@id": "1",
+      "name": "Ram",
+      "age": "20",
+      "gender": "male",
+      "address": "xxx",
+      "phone": "9796857687",
+      "aadhar": "xxxx yyyy zzzz",
+      "busdetails": {
+         "busno": "1000",
+         "noofseats": "4",
+         "category": "AC",
+         "amount": "3200",
+         "date": "15.11.2020"
+      }
+   },
+   {
+      "@id": "2",
+      "name": "Akash",
+      "age": "20",
+      "gender": "male",
+      "address": "xxx",
+      "phone": "9796857687",
+      "aadhar": "xxxx yyyy zzzz",
+      "busdetails": {
+         "busno": "1000",
+         "noofseats": "3",
+         "category": "AC",
+         "amount": "2400",
+         "date": "15.11.2020"
+      }
+   },
+   {
+      "@id": "3",
+      "name": "Gokul",
+      "age": "19",
+      "gender": "male",
+      "address": "xxx",
+      "phone": "9796857687",
+      "aadhar": "xxxx yyyy zzzz",
+      "busdetails": {
+         "busno": "1000",
+         "noofseats": "3",
+         "category": "AC",
+         "amount": "2400",
+         "date": "15.11.2020"
+      }
+   }
+]

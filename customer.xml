@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<details>
+    <info id="1">
+        <name>Ram</name>
+        <age>20</age>
+        <gender>male</gender>
+        <address>xxx</address>
+        <phone>9796857687</phone>
+        <aadhar>xxxx yyyy zzzz</aadhar>
+        <busdetails>
+            <busno>1000</busno>
+            <noofseats>4</noofseats>
+            <category>AC</category>
+            <amount>3200</amount>
+            <date>15.11.2020</date>
+        </busdetails>
+    </info>
+    <info id="2">
+        <name>Akash</name>
+        <age>20</age>
+        <gender>male</gender>
+        <address>xxx</address>
+        <phone>9796857687</phone>
+        <aadhar>xxxx yyyy zzzz</aadhar>
+        <busdetails>
+            <busno>1000</busno>
+            <noofseats>3</noofseats>
+            <category>AC</category>
+            <amount>2400</amount>
+            <date>15.11.2020</date>
+        </busdetails>
+    </info>
+    <info id="3">
+        <name>Gokul</name>
+        <age>19</age>
+        <gender>male</gender>
+        <address>xxx</address>
+        <phone>9796857687</phone>
+        <aadhar>xxxx yyyy zzzz</aadhar>
+        <busdetails>
+            <busno>1000</busno>
+            <noofseats>3</noofseats>
+            <category>AC</category>
+            <amount>2400</amount>
+            <date>15.11.2020</date>
+        </busdetails>
+    </info>
+</details>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<bus>
+    <number>1001</number>
+    <name>abc</name>
+    <type>super delux</type>
+    <seat category="AC">
+        <date>15.11.2020</date>
+        <departure>chennai</departure>
+        <destination>madurai</destination>
+        <availability>20</availability>
+    </seat>
+    <seat category="NON-AC">
+        <date>15.11.2020</date>
+        <departure>chennai</departure>
+        <destination>madurai</destination>
+        <availability>15</availability>
+    </seat>
+    <seat category="General">
+        <date>15.11.2020</date>
+        <departure>chennai</departure>
+        <destination>madurai</destination>
+        <availability>10</availability>
+    </seat>
+</bus>
+
